@@ -1,6 +1,6 @@
 # TherapistBot
 ## description
-A fun JavaScript project that simulates a therapist. The program will look for certain keywords and choose a response based on what you said and wont repeat a response until app possible responses for your input were used up.
+A fun JavaScript project that simulates a therapist. The program will look for certain keywords and choose a response based on what you said and wont repeat a full response until all possible responses for your given input were used up.
 ## instructions: 
 Enter any input into the box and have a conversation with Eliza! 
 To get the most out of your conversation, try using keywords from the arrays below that Eliza recognizes: 
