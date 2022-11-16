@@ -4,6 +4,7 @@ A fun JavaScript project that simulates a therapist. The program will look for c
 ## instructions: 
 Enter any input into the box and have a conversation with Eliza! 
 To get the most out of your conversation, try using keywords from the arrays below that Eliza recognizes: 
+```
 ["javascript","programming"],["javascript","programming"],
 ["dog", "dogs", "cat", "cats", "mouse", "mice", "giraffe", "giraffes", "penguin", "penguins", "monkey", "monkeys", "moose", "bird", "birds", "fish"]
 ["Do you have any family traditions?", "Are you excited for the holiday season?"]
@@ -18,3 +19,4 @@ To get the most out of your conversation, try using keywords from the arrays bel
 ["unattractive", "hideous", "ugly"]
 ["stupid", "dumb", "idiot", "unintelligent", "simple-minded", "braindead", "foolish", "unthoughtful"],
 ["greeting"]
+```
